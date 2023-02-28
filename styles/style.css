@@ -37,8 +37,8 @@ nav {
 }
 
 .banner-title {
-    font-weight: 700;
-    font-size: 64px;
+    font-weight: 700 !important;
+    font-size: 64px !important;
     color: #131313;
     margin-bottom: 33px;
 
